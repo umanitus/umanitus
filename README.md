@@ -9,25 +9,23 @@ Maximiser la valeur de sa vie en produisant, prescrivant et éprouvant du bien e
 * un moyen de s'authentifier à son domaine, à soi ou via umanitus.com
 * un moyen de convertir ses points sur Umanitus (ces Us) en argent
 
-## Rôles
+## Coups
 A Umanitus, chaque joueur peut taster, produire ou consommer du bien.
 Chaque joueur peut utiliser ses Us pour consommer.
 Chaque joueur gagne des Us en produisant et en tastant.
 
-### Pour taster
-* Produire une vidéo dans laquelle le joueur dit qui il est, ce qu'il a consommé et pourquoi il a aimé et donc conseille ce bien.
-* Poster la vidéo de ce bien à au moins deux joueurs pour leur demander de faire offre
-* Obtenir le prix maximum qu'ils sont prêts à payer pour le bien
-* Poster le bien à celui qui a misé la plus forte enchère au prix de la deuxième meilleure enchère
+### Taster
+* Le joueur produit une vidéo dans laquelle il dit qui il est, ce qu'il a consommé, comment il a aimé et donc conseille ce bien
+* Il poste la vidéo de ce bien à au moins deux joueurs pour leur proposer ce bien en enchère de Vickrey
+* Il poste le bien au joueur avec la meilleure enchère et reçoit en échange le nombre de Us de la deuxième meilleure enchère
 
-### Pour produire en série
-* Poster sur ce que le joueur a produit
-* Poster le nombre de Us que le produit coûte
-* Poster une demande d'enchère à un maximum de joueurs
-* Obtenir le prix maximum qu'ils sont prêts à payer pour le bien
-* Poster le bien à ceux qui ont misé au second prix généralisé, dans l'ordre descendant des enchères
+### Produire
+* Le joueur poste à des joueurs une demande d'enchère pour un bien qu'il a produit ou peu produire
+* Le joueur indique le nombre de Us que le produit coûte
+* Il obtient le prix maximum qu'ils sont prêts à payer pour le bien
+* Il poste les biens à ceux qui ont misé au second prix généralisé, dans l'ordre descendant des enchères
 
-### Pour consommer
+### Consommer
 * Obtenir une enchère de joueurs en fournissant des clés sur la demande
 * Obtenir le produit au prix de la différence entre la meilleure et la deuxième meilleure enchère
 
