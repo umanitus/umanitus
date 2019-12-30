@@ -1,13 +1,16 @@
 # umanitus
-Un nouvelle façon de jouer pour maximiser la valeur de sa vie.
+Un jeu pour maximiser la valeur de sa vie, appliquant radicalement la théorie de l'enchère au second prix
 
 ## But
 Maximiser la valeur de sa vie en produisant, prescrivant et éprouvant du bien et du bon.
 
+## Vie
+Suite des coups joués, permettant de gagner des points de vie (ces U Points ou UPs) ou de les échanger contre un bien.
+
 ## Pour jouer
 * un domaine et un certificat sur le Web, à soi ou sous umanitus.com
 * un moyen de s'authentifier à son domaine, à soi ou via umanitus.com
-* un moyen de convertir ses points sur Umanitus (ces Us) en argent
+* un moyen de convertir ses points sur Umanitus (ces UPs) en argent
 
 ## Coups
 A Umanitus, chaque joueur peut taster, produire ou consommer du bien.
