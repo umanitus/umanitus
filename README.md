@@ -34,4 +34,17 @@ Suite des coups joués, permettant de gagner des points de vie (ses U Points ou 
 * Le joueur voit à chaque coup la meilleure offre et gagne l'espérance de valeur de la deuxième meilleure offre
 * Les offres peuvent être en valeur fixée par celui qui offre (avec incertitude sur la conversion), en valeur fixée par celui qui consomme (avec incertitude sur la faisabilité). 
 
+### Mode Circulaire
+* Un joueur fait une vidéo d'un produit dont il n'a plus l'usage
+* Il la met sur une page en décrivant le produit et en mettant un formulaire pour le vendre
+* Il fait un QR Code avec l'URL de la page
+* Il met le QR Code dans la vidéo
+* Dès qu'il a deux enchères, il vend le produit à celui qui a la meilleure au prix du deuxième
+
+
+
+
+
+
+
 
