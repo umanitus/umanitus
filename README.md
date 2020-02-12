@@ -44,7 +44,24 @@ Suite des coups joués, permettant de gagner des points de vie (ses U Points ou 
 ## Biens
 * Un bien ajoute du plus ou retire du moins. 
 * Un bien est physique ou informatique. 
-* Un bien est un `<article>` en HTML. 
+* Un bien est un `<article>` en HTML.
+
+### Bien informatique premiers
+* Tout nombre
+* Tout adresse
+* Tout texte
+* Tout image
+* Tout audio
+* Toute video
+* Toute commande
+* Tout point 
+* Toute question
+
+### Bien physique premiers
+* Toute matière
+* Tout temps
+* Tout espace 
+
 
 
 
