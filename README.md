@@ -41,10 +41,10 @@ Suite des coups joués, permettant de gagner des points de vie (ses U Points ou 
 * Il met le QR Code dans la vidéo
 * Dès qu'il a deux enchères, il vend le produit à celui qui a la meilleure au prix du deuxième
 
-### Biens
+## Biens
 * Un bien ajoute du plus ou retire du moins. 
 * Un bien est physique ou informatique. 
-* Un bien est un ´´´<article>´´´ en HTML. 
+* Un bien est un <article> en HTML. 
 
 
 
