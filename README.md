@@ -1,5 +1,5 @@
 # umanitus
-Un jeu pour maximiser la valeur de sa vie, appliquant radicalement la théorie de l'enchère au second prix. 
+Un jeu de cartes pour maximiser la valeur de sa vie, appliquant radicalement la théorie de l'enchère au second prix. 
 Un jeu basé sur ses connaissances : ce que nous connaissons et ceux que nous connaissons.
 
 ## But
@@ -61,6 +61,29 @@ Suite des coups joués, permettant de gagner des points de vie (ses U Points ou 
 * Toute matière
 * Tout temps
 * Tout espace 
+
+### Caractéristiques
+## Créer une carte
+* Presser le bouton +
+* Choisir le verbe avec auto complétion
+* Swapper gauche pour le passé, bas pour le présent, droite pour le futur
+* Editer l'objet par des textes, des images, des audios et des vidéos
+* Editer le but de la carte : Production, Vente, Voeu
+
+## Dans la carte
+* Une origine
+* Des images et des vidéos en carrousel
+* Un titre
+* Une description dans une langue naturelle
+* Des tags depuis une langue naturelle
+* Un bouton pour Jouer, un bouton pour Vendre
+* Toutes les zones sont éditables en ligne en les touchant
+
+## Carte Méthode / Modèle
+* Pour voir une méthode, empiler des cartes sous la carte action  
+* Pour signifier une séquence, haut vers le bas  
+* Pour signfier une liste, une rangée
+* Pour signfier un choix, une poignée
 
 
 
