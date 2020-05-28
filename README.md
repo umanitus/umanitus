@@ -62,7 +62,7 @@ Suite des coups joués, permettant de gagner des points de vie (ses U Points ou 
 * Tout temps
 * Tout espace 
 
-### Caractéristiques
+# Les cartes
 ## Créer une carte
 * Presser le bouton +
 * Choisir le verbe avec auto complétion
@@ -85,6 +85,19 @@ Suite des coups joués, permettant de gagner des points de vie (ses U Points ou 
 * Pour signfier une liste, une rangée
 * Pour signfier un choix, une poignée
 
+## Cartes d'une partie Vente
+* A empiler dans le processus séquentiel
+* Carte Commander
+* Carte Réceptionner
+* Carte Préparer
+* Carte Entreposer
+* Carte Envoyer
+* Carte Livrer
+* Carte Payer
+* Carte Installer
+* Carte Utiliser
+* Carte Jetter
+* Carte Recycler
 
 
 
