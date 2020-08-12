@@ -1,4 +1,5 @@
-# umanitus
+# Umanitus
+Une société d'échanges juste, universelle et ludique.
 Un jeu de cartes pour maximiser la valeur de sa vie, appliquant radicalement la théorie de l'enchère au second prix. 
 Un jeu basé sur ses connaissances : ce que nous connaissons et ceux que nous connaissons.
 
