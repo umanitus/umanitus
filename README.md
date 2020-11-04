@@ -26,14 +26,14 @@ La mission de Umanitus est que les personnes préfèrent systématiquement l'éc
 Le principal problème de l'Humanité est la notion de ce qui est juste.  
 Le but de Umanitus est que tous les échanges qui ont lieu soient considérés comme justes par toutes les parties prenantes  
 La conviction de Umanitus est que l'application systèmatique du jeu de l'enchère au second prix peut permettre de maximiser cette justice
-* Pour le serveur, en obtenant ce qu'il veut plus que son minimum
+* Pour le serveur, en obtenant ce qu'il veut pour plus que son minimum
 * Pour le client, en obtenant ce qu'il veut pour moins que son maximum
 * Pour le media, en obtenant juste sa part
 * Pour la société, en prohibant les échanges non valables, i.e. sans Espérance de Valeur
 
 ## Universelle
-Pour Umanitus, l'économie fournit la théorie la plus efficace pour formaliser les échanges de produits, sous l'angle de la différence entre le prix du client et le coût du serveur.  
-Pour Umanitus, la clé est l'espérance de valeur, définie comme le produit de la probabilité de conversion et de la différence entre le Prix et le Coût de la conversion.  
+Pour Umanitus, l'économie fournit la théorie la plus efficace pour formaliser les échanges de produits, sous l'angle de la différence entre la valeur du client et le coût du serveur.  
+Pour Umanitus, la clé est l'espérance de valeur, définie comme le produit de la probabilité de conversion et de la différence entre la Valeur et le Coût de la conversion.  
 
 
 
