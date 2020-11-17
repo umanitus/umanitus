@@ -2,8 +2,13 @@
 Un modèle pour une société d'échanges, juste, universel et ludique. 
 
 ## Société
-Avec la diffusion de l'Internet, pour la première fois de son histoire, l'humanité forme un seul système : tout humain peut théoriquement échanger avec tout autre humain.  
+Avec la diffusion de l'Internet, synthèse de l'informatique et des télécommunications, pour la première fois de son histoire, l'humanité forme un seul système : tout humain peut théoriquement tout échanger avec tout autre humain.  
 Le but d'Umanitus est d'ajuster l'Humanité et ce nouveau système technique.  
+En effet, la première conséquence de cette unification a été l'émergence des GAFAMs, propulsés par le capitalisme actionarial issu de la révolution industrielle précédente mais non conçu ex ante pour faire face aux défis écologiques résultants. 
+La société résultante des GAFAMs est une société en triple crise : 
+* Crise de la confiance : le système aux règles du jeu mal définies et opaques génèrent de la triche, au mieux, et de la fraude, au pire. BitCoin est probablement le meilleur symptome de la crise de confiance, visant à la remplacer par un système informatique d'une inefficacité écologique, écononomique et technique redoutable.  
+* Crise de la valeur : le système a produit des entreprises dominantes ne payant pas leurs fournisseurs. Nous fournissons les liens à Google, les partages à Facebook, les avis à Amazon, les applications à Apple et les bureaux à Microsoft, pour leur permettre de revendre, directement ou indirectement, notre attention. Il y a effectivement un meilleur modèle que le service gratuit, ce n'est pas le service payant, mais le service payé au fournisseur.
+* Crise du sens : le système a produit une orientation profondément narcissique. Sur les réseaux sociaux, à donner rarement le meilleur de nous-mêmes, mais recevons souvent le pire des autres, leur haine. Il y a effectivement un meilleur modèle que le narcissisme du "post" déclaratif, qu'il soit question pour soi ou conseil pour les autres. Qui plus est, bombardé par les notifications interruptives, nous ne savons plus où regarder, bref, dans quel sens avancer.  
 
 ## Ludique 
 Pour améliorer l'Humanité, nous adoptons la posture de l'ingénieur i.e. celui qui compose des techniques en utilisant des sciences.  
