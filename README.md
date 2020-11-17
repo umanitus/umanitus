@@ -1,5 +1,5 @@
 # Umanitus
-Un modèle pour une société d'échanges juste, universelle et ludique.  
+Un modèle pour une société d'échanges, juste, universel et ludique. 
 
 ## Société
 Avec la diffusion de l'Internet, pour la première fois de son histoire, l'humanité forme un seul système : tout humain peut théoriquement échanger avec tout autre humain.  
